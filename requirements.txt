@@ -1,0 +1,15 @@
+# Generated from pyproject.toml [project].dependencies
+# Install with: pip install -r requirements.txt
+
+docx2txt>=0.9
+langchain>=1.4.2
+langchain-community>=0.4.2
+langchain-google-genai>=4.4.0
+langchain-openai>=1.6.6
+langchain-pinecone>=0.2.13
+langchain-text-splitters>=1.1.2
+langgraph>=1.2.12
+pinecone>=7.3.0
+pymupdf>=1.28.2
+python-dotenv>=1.2.3
+streamlit>=1.65.0
